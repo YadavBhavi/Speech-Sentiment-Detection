@@ -37,4 +37,4 @@ New result:  <br />
 5) Test WER = 31.12  <br />
 6) Test SER = 54.0  <br />
  <br />
-Task 1) Loss on testing set (dev.txt) - 66.57
+Task 1) Loss on testing set (dev.txt) - 78
